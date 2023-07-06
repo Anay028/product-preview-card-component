@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/anay028/product-preview-card-component](https://github.com/anay028/product-preview-card-component)
-- Live Site URL: [https://anay028.github.io/product-preview-card-component](https://anay028.github.io/product-preview-card-component)
+- Solution URL: [https://github.com/anay-208/product-preview-card-component](https://github.com/anay-208/product-preview-card-component)
+- Live Site URL: [https://anay-208.github.io/product-preview-card-component](https://anay-208.github.io/product-preview-card-component)
 
 ## My process
 
